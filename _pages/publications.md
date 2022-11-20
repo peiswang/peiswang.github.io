@@ -24,6 +24,7 @@ author_profile: true
 <h3>2021</h3>
 <p>Peisong Wang*, Fanrong Li*, Gang Li, &amp; Jian Cheng. Extremely Sparse Networks via Binary Augmented Pruning for Fast Image Classification. <em>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</em>, 2021.</p>
 <p>Weihan Chen, Peisong Wang, &amp; Jian Cheng. Towards mixed-precision quantization of neural networks via constrained optimization. <em>ICCV</em>, 2021.</p>
+<p>Zili Liu, Peisong Wang, Zaixing Li. More-Similar-Less-Important: Filter Pruning VIA Kmeans Clustering. <em>ICME</em>, 2021.</p>
 </div>
 
 

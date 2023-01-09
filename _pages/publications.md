@@ -14,6 +14,7 @@ author_profile: true
 <h3>2022</h3>
 <p>Peisong Wang, Weihan Chen, Xiangyu He, Qiang Chen, Qingshan Liu, &amp; Jian Cheng. Optimization-based Post-training Quantization with Bit-split and Stitching. <em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</em>, 2022.</p>
 <p>Peisong Wang*, Xiangyu He*, &amp; Jian Cheng. Towards Accurate Binarized Neural Networks with Sparsity for Mobile Application. <em>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</em>, 2022.</p>
+<p>Weixiang Xu*, Fanrong Li*, Yingying Jiang, Yong A, Xiangyu He, Peisong Wang, &amp; Jian Cheng. Improving Extreme Low-bit Quantization with Soft Threshold. <em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</em>, 2022.</p>
 <p>Anda Cheng, Peisong Wang, Xi Sheryl Zhang, &amp; Jian Cheng. Differentially Private Federated Learning with Local Regularization and Sparsification. <em>CVPR</em>, 2022.</p>
 <p>Weixiang Xu, Xiangyu He, Ke Cheng, Peisong Wang, &amp; Jian Cheng. Towards Fully Sparse Training: Information Restoration with Spatial Similarity. <em>AAAI</em>, 2022.</p>
 <p>Anda Cheng, Jiaxing Wang, Xi Sheryl Zhang, Qiang Chen, Peisong Wang, &amp; Jian Cheng. Dpnas: Neural architecture search for deep learning with differential privacy. <em>AAAI</em>, 2022.</p>

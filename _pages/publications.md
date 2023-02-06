@@ -53,7 +53,7 @@ author_profile: true
 <p>Qinghao Hu, Peisong Wang, &amp; Jian Cheng. From hashing to cnns: Training binary weight networks via hashing. <em>AAAI</em>, 2018.</p>
 <p>Qinghao Hu, Gang Li, Peisong Wang, Yifan Zhang, &amp; Jian Cheng. Training binary weight networks via semi-binary decomposition. <em>ECCV</em>, 2018.</p>
 <p>Guibo Zhu, Jinqiao Wang, Peisong Wang, Yi Wu, &amp; Hanqing Lu. Feature distilled tracking. <em>IEEE transactions on cybernetics</em>, 2017.</p>
-<p>Peisong Wang, &amp; ian Cheng. Fixed-point Factorized Networks. <em>CVPR</em>, 2017.</p>
+<p>Peisong Wang, &amp; Jian Cheng. Fixed-point Factorized Networks. <em>CVPR</em>, 2017.</p>
 <p>Peisong Wang, Qiang Song, Hua Han, &amp; Jian Cheng. Sequentially supervised long short-term memory for gesture recognition. <em>Cognitive Computation</em>, 2016.</p>
 <p>Peisong Wang, &amp; Jian Cheng. Accelerating Convolutional Neural Networks for Mobile Applications. <em>ACM Multimedia</em>, 2016.</p>
 </div>
